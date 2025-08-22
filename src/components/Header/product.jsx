@@ -1,44 +1,29 @@
 import React from 'react'
 
 const Product = () => {
-return (
-    <div>
+    return (
+        <div className='products'>
             <div>
-            <img 
-                src="https://scentsnstories.pk/collections/all" 
-                alt="Perfume bottle displayed for Scent n Stories collection, set against a clean background, label reads Summar, evoking a fresh and inviting atmosphere" 
-            />
-            <h3>Summar</h3>
+                <img  id="prod-img"src="https://scentsnstories.pk/cdn/shop/collections/Summer_23a710bd-b3bd-4875-abad-bd6cdf4cebc0.webp?v=1745993330&width=720" />
+                <h3>Summar</h3>
             </div>
 
             <div>
-            <img 
-                src=" " 
-                alt="Placeholder for perfume product image, intended for Scent n Stories Summar collection, no visual details available" 
-                srcSet="" 
-            />
-            <h3>Summar</h3>
+                <img id="prod-img" src="https://scentsnstories.pk/cdn/shop/collections/Summer_23a710bd-b3bd-4875-abad-bd6cdf4cebc0.webp?v=1745993330&width=720" />
+                <h3>Summar</h3>
             </div>
 
             <div>
-            <img 
-                src="./images/image8" 
-                alt="Perfume bottle from Summar collection, positioned in a minimalist setting, label reads Summar, suggesting a calm and refreshing mood" 
-                srcSet="" 
-            />
-            <h3>Summar</h3>
+                <img id="prod-img" src="https://scentsnstories.pk/cdn/shop/collections/Summer_23a710bd-b3bd-4875-abad-bd6cdf4cebc0.webp?v=1745993330&width=720" />
+                <h3>Summar</h3>
+            </div>
+            <div>
+                <img id="prod-img" src="https://scentsnstories.pk/cdn/shop/collections/Summer_23a710bd-b3bd-4875-abad-bd6cdf4cebc0.webp?v=1745993330&width=720" />
+                <h3>Summar</h3>
             </div>
 
-            <div>
-            <img 
-                src="./images/image9" 
-                alt="Summar perfume bottle showcased in a simple environment, label displays Summar, atmosphere feels serene and welcoming" 
-                srcSet="" 
-            />
-            <h3>Summar</h3>
-            </div>
-    </div>
-)
+        </div>
+    )
 }
 
 export default Product
