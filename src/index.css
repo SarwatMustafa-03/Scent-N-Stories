@@ -75,7 +75,8 @@
     justify-content: center;
 }
 #img{
-    margin-top: 30px;
+
+
     display: flex;
 }
 .heading{
@@ -141,7 +142,21 @@ justify-content: space-around;
     margin-top: 30px;
     gap: 5px;
 }
+#ahloud {
+    margin-top: 40px;
+}
+#reviews{
+    margin: 30px;
 
+}
+#variety{
+    margin-top: 30px;
+
+}
+#sub-variety{
+        margin: 10px
+
+    }
 
 
 

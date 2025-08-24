@@ -29,14 +29,14 @@ const Product = () => {
             </div>
 
 
-            <div>
-                <div className=' flex space-between w-150 h-auto gap-5  '  >
-                    <img src="https://scentsnstories.pk/cdn/shop/files/Rectangle_BannersPerfume_Wax.jpg?v=1744460567&width=1080" alt="" />
-                    <img src="https://scentsnstories.pk/cdn/shop/files/Rectangle_Banners_Sample_Set.jpg?v=1744460080&width=1080" alt="" />
+            <div id='variety'>
+                <div className=' flex justify-between w-150 h-auto gap-5   'id='sub-variety'  >
+                    <img className='rounded-4xl ' src="https://scentsnstories.pk/cdn/shop/files/Rectangle_BannersPerfume_Wax.jpg?v=1744460567&width=1080" alt="" />
+                    <img className='rounded-4xl'src="https://scentsnstories.pk/cdn/shop/files/Rectangle_Banners_Sample_Set.jpg?v=1744460080&width=1080" alt="" />
                 </div>
-                <div className=' flex space-between w-150 h-auto gap-5 '>
-                    <img src="https://scentsnstories.pk/cdn/shop/files/Rectangle_BannersBody_Mist.jpg?v=1744461039&width=1080" alt="" />
-                    <img src="https://scentsnstories.pk/cdn/shop/files/Rectangle_Banners_Air_freshener.webp?v=1744959295&width=1080" alt="" />
+                <div className=' flex justify-between w-150 h-auto gap-5 ' id='sub-variety'>
+                    <img className='rounded-4xl'src="https://scentsnstories.pk/cdn/shop/files/Rectangle_BannersBody_Mist.jpg?v=1744461039&width=1080" alt="" />
+                    <img className='rounded-4xl'src="https://scentsnstories.pk/cdn/shop/files/Rectangle_Banners_Air_freshener.webp?v=1744959295&width=1080" alt="" />
                 </div>
             </div>
 
