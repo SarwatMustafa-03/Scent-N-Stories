@@ -1,7 +1,7 @@
-import Navbar from './components/navbar.jsx'
-import Cards from './components/Header/cards.jsx'
-import Product from './components/Header/product.jsx'
-import AhlOud from './components/Header/AhlOud.jsx'
+import Navbar from './components/Header/navbar.jsx'
+import Cards from './components/main/cards.jsx'
+import Product from './components/main/product.jsx'
+import AhlOud from './components/main/AhlOud.jsx'
 
 import './index.css'
 
