@@ -11,7 +11,7 @@ const Reviews = () => {
       <img className=' rounded-4xl' src="https://scentsnstories.pk/cdn/shop/files/Faizan_Spotlight.webp?v=1754744726&width=600" alt="" />
       <img className=' rounded-4xl' src="https://scentsnstories.pk/cdn/shop/files/Saud_Shakeel_Spotlight.webp?v=1754744745&width=600" alt="" />
     </div>
-
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde saepe exercitationem fugiat magni. Libero, fugiat quo ex, at mollitia assumenda, reiciendis adipisci reprehenderit explicabo repellendus pariatur hic quod! Autem, quam.</p>
     <div><img src="https://scentsnstories.pk/cdn/shop/files/Scent_Quiz_Web_Banner_2_1.webp?v=1726048919&width=1200" alt="" />
     <p>Dont Know Where to Start</p>
     </div>
