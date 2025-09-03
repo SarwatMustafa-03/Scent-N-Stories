@@ -15,6 +15,7 @@ const Reviews = () => {
     <div><img src="https://scentsnstories.pk/cdn/shop/files/Scent_Quiz_Web_Banner_2_1.webp?v=1726048919&width=1200" alt="" />
     <p>Dont Know Where to Start</p>
     </div>
+    <div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis accusamus unde ut temporibus magnam id rerum totam iure similique enim! Nam deleniti corrupti natus, libero sed nihil tempore commodi modi.</p></div>
     </>
   )
 }
