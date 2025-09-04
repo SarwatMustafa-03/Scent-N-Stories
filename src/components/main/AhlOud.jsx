@@ -14,7 +14,7 @@ const AhlOud = () => {
           <h4 className='font-bold text-xl'>View all</h4>
         </div>
 
-
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae hic quis enim, doloremque et, asperiores facere nesciunt debitis saepe eum ullam similique! Eligendi nobis amet est odit officiis voluptatem beatae.</p>
 
         <div className='cards'>
           <div>
