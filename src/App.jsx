@@ -7,6 +7,7 @@ import Reviews from './components/main/Reviews.jsx'
 import './index.css'
 
 const App = () => {
+  console.log('obj')
 return (
   <>
 <Navbar />
