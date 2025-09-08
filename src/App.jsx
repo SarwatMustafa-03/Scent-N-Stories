@@ -8,6 +8,7 @@ import Policy from './components/main/Policy.jsx'
 import './index.css'
 
 const App = () => {
+  console.log('obj')
 return (
   <>
 <Navbar />
