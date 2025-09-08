@@ -3,6 +3,7 @@ import Cards from './components/main/cards.jsx'
 import Product from './components/main/product.jsx'
 import AhlOud from './components/main/AhlOud.jsx'
 import Reviews from './components/main/Reviews.jsx'
+import Policy from './components/main/Policy.jsx'
 
 import './index.css'
 
@@ -14,6 +15,7 @@ return (
 <Product />
 <AhlOud/>
 <Reviews/>
+<Policy/>
   
   </>
 )
