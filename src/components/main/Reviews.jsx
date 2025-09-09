@@ -12,7 +12,6 @@ const Reviews = () => {
         <img className=' rounded-4xl' src="https://scentsnstories.pk/cdn/shop/files/Saud_Shakeel_Spotlight.webp?v=1754744745&width=600" alt="" />
       </div>
       <div><img src="https://scentsnstories.pk/cdn/shop/files/Scent_Quiz_Web_Banner_2_1.webp?v=1726048919&width=1200" alt="" />
-
       </div>
     </>
   )
