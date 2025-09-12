@@ -6,6 +6,7 @@ import Reviews from './components/main/Reviews.jsx'
 import Policy from './components/main/Policy.jsx'
 import Poster from './components/main/poster.jsx'
 import Description from './components/main/Description.jsx'
+import Contact from './components/main/contact.jsx'
 
 import './index.css'
 
@@ -22,6 +23,7 @@ return (
 <Policy/>
 <Poster/>
 <Description/>
+<Contact />
   
   </>
 )
