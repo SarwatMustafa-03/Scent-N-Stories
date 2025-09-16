@@ -13,7 +13,7 @@ const AhlOud = () => {
           <h4 className='font-bold text-xl'>AHL OUD</h4>
           <h4 className='font-bold text-xl'>View all</h4>
         </div>
-
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut obcaecati ad soluta totam dolore odio reiciendis aliquam quod non ipsa! Illo laudantium deserunt nam eaque officia ipsa voluptate animi repellendus?</p>
 
         <div className='cards'>
           <div>
