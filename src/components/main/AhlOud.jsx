@@ -15,6 +15,7 @@ const AhlOud = () => {
         </div>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut obcaecati ad soluta totam dolore odio reiciendis aliquam quod non ipsa! Illo laudantium deserunt nam eaque officia ipsa voluptate animi repellendus?</p>
 
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta similique cupiditate deleniti explicabo quia, perspiciatis accusamus corrupti quo ipsam autem nisi? Similique deserunt placeat ad odit voluptatibus adipisci totam at?</p>
         <div className='cards'>
           <div>
             <img className='w-50 h-50' src="https://scentsnstories.pk/cdn/shop/files/catch22_7d87f3ee-2e86-4675-9976-5a4c6ae74b9d.webp?v=1755284471&width=720" alt="" srcset="" />
